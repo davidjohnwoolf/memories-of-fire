@@ -1,6 +1,6 @@
 ## Contacts
 
-[Alfistiumaris Mordiston](./contacts/alfistiumaris-mordiston.md)
+[Alfistiumaris Mordi](./contacts/alfistiumaris-mordi.md)
 
 # Alfistumaris Mordi
 
