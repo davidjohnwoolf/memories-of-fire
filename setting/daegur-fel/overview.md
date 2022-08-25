@@ -19,8 +19,3 @@ As an influential interest group, the guilds, while certainly not making up a un
 ## The City Council
 A body of representatives numbering 30 seats, their placement decided by a ranked vote, where each parcel of land can be used in casting a single vote, thus those who own the land do rule it, and in ruling it extract from the craftsman a heavy toll, having relatively fewer peasants bound to their land than their rural counterparts. The council largely manages its own affairs, and while it is legally under the purview of the high houses, their number have among them many from those very houses, and so largely do as they see fit, only suffering under the power struggles largely internal to the council. 
 
-## The Order of Ilmater
-
-
-## The Theives Guild
-The guild here is one of particular influence, though who’s allegiances are more accurately described as “opportunistic”, it is still a guild-like body of sorts and as such is generally in conflict with the positions of the council’s directions.

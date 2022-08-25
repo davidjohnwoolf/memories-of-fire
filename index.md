@@ -1,23 +1,15 @@
 <h1><center>Memories of Fire</center></h1>
 
-<em><center>A Fifth Edition Dungeons and Dragons Campaign Setting</center></em>
+<em><center>A world set between the fires of the earth an  ve</center></em>
 
 ## Section 1 Rules
 
-### Conventions
-1. Session Guidelines
-1. Standards of Conduct
-1. Meta-gaming
-1. Session Feedback
-1. Secondary Characters
-1. Character Death
-1. New Primary Characters
-1. Challenging DM Decisions
-### Mechanics
-1. Injury and Healing
-1. Coup de Grace
-1. Critical Hits
-1. Divine Intervention
+### House Rules
+1. [Injury and Healing](./rules/healing-and-injury.md)
+1. [Coup de Grace](./rules/coup-de-grace.md)
+1. [Critical Rolls](./rules/critical-rolls.md)
+1. [The Touch of the Gods](./rules/touch-of-the-gods.md)
+1. [Player Characters](./rules/player-characters.md)
 
 ## Section 2 Setting
 
@@ -32,8 +24,8 @@
 
 ## Section 3 Characters
 
-### Iggdrasil
-1. [Character](./characters/iggdrasil/character.md)
+### Draeeth
+1. [Character](./characters/draeeth/character.md)
 ### Belneak
 1. [Character](./characters/belneak/character.md)
 ### Ithron

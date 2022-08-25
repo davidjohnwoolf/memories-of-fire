@@ -1,7 +1,3 @@
-## Contacts
-
-[Alfistiumaris Mordi](./contacts/alfistiumaris-mordi.md)
-
 # Alfistumaris Mordi
 
 > Ithrons teacher and the high priest of the Daegur Fel priesthood.
