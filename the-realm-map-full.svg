@@ -26,18 +26,36 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1405.7283"
-     inkscape:cy="1153.9983"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="5017.6296"
+     inkscape:cy="565.68541"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      units="in" />
   <defs
      id="defs2">
+    <rect
+       x="0.002177715"
+       y="0.0029244498"
+       width="1114.5603"
+       height="706.55956"
+       id="rect36204" />
+    <rect
+       x="808.78904"
+       y="3045.2148"
+       width="98.378904"
+       height="53.437499"
+       id="rect17884" />
+    <rect
+       x="263.30468"
+       y="2958.7148"
+       width="95.689451"
+       height="77.158201"
+       id="rect9946" />
     <rect
        x="322.10922"
        y="542.01392"
@@ -680,6 +698,66 @@
        width="318.4736"
        height="167.84505"
        id="rect11969-7-5-9-2-5" />
+    <rect
+       x="263.30469"
+       y="2958.7148"
+       width="95.689453"
+       height="77.158203"
+       id="rect9946-5" />
+    <rect
+       x="263.30469"
+       y="2958.7148"
+       width="95.689453"
+       height="77.158203"
+       id="rect9946-2" />
+    <rect
+       x="808.78906"
+       y="3045.2148"
+       width="98.378906"
+       height="53.4375"
+       id="rect17884-0" />
+    <rect
+       x="808.78906"
+       y="3045.2148"
+       width="98.378906"
+       height="53.4375"
+       id="rect17884-0-7" />
+    <rect
+       x="808.78906"
+       y="3045.2148"
+       width="167.51562"
+       height="55.078125"
+       id="rect17884-0-7-1" />
+    <rect
+       x="808.78906"
+       y="3045.2148"
+       width="98.378906"
+       height="53.4375"
+       id="rect17884-5" />
+    <rect
+       x="0.0021777151"
+       y="0.0029244497"
+       width="1114.5603"
+       height="706.55957"
+       id="rect36204-6" />
+    <rect
+       x="0.0021777151"
+       y="0.0029244497"
+       width="1114.5603"
+       height="706.55957"
+       id="rect36204-9" />
+    <rect
+       x="0.0021777151"
+       y="0.0029244497"
+       width="1114.5603"
+       height="706.55957"
+       id="rect36204-9-8" />
+    <rect
+       x="0.0021777151"
+       y="0.0029244497"
+       width="1114.5603"
+       height="706.55957"
+       id="rect36204-9-8-2" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -871,7 +949,7 @@
        y="0"><tspan
          x="503.29459"
          y="460.95114"
-         id="tspan5800">Daegur Fel</tspan></text>
+         id="tspan57436">Daegur Fel</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22358508,0,0,0.22358508,248.282,588.95236)"
@@ -881,7 +959,7 @@
        y="0"><tspan
          x="501.21455"
          y="460.95114"
-         id="tspan5802">Port Welins</tspan></text>
+         id="tspan57438">Port Welins</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22555275,0,0,0.22555275,277.66218,618.368)"
@@ -891,7 +969,7 @@
        y="0"><tspan
          x="513.50252"
          y="460.95114"
-         id="tspan5804">Grimlet</tspan></text>
+         id="tspan57440">Grimlet</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.32959423,0,0,0.32959423,267.88696,481.52)"
@@ -901,11 +979,11 @@
        y="0"><tspan
          x="514.55853"
          y="460.95114"
-         id="tspan5806">Waelin
+         id="tspan57442">Waelin
 </tspan><tspan
          x="521.26248"
          y="480.95114"
-         id="tspan5808">Hills</tspan></text>
+         id="tspan57444">Hills</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.1836627,0,0,0.1836627,380.24614,601.41539)"
@@ -915,7 +993,7 @@
        y="0"><tspan
          x="507.51054"
          y="460.95114"
-         id="tspan5810">Galenfold</tspan></text>
+         id="tspan57446">Galenfold</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23845172,-0.03781395,0.03781395,0.23845172,260.09723,503.83788)"
@@ -925,7 +1003,7 @@
        y="0"><tspan
          x="496.9346"
          y="460.95114"
-         id="tspan5812">Daegur River</tspan></text>
+         id="tspan57448">Daegur River</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.2421021,0,0,0.2421021,376.48705,518.40095)"
@@ -935,7 +1013,7 @@
        y="0"><tspan
          x="510.23055"
          y="460.95114"
-         id="tspan5814">Wayford</tspan></text>
+         id="tspan57450">Wayford</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.24317901,0,0,0.24317901,400.64272,438.96264)"
@@ -945,7 +1023,7 @@
        y="0"><tspan
          x="507.29454"
          y="460.95114"
-         id="tspan5816">Balinville</tspan></text>
+         id="tspan57452">Balinville</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22683287,0,0,0.22683287,231.47782,652.44098)"
@@ -955,7 +1033,7 @@
        y="0"><tspan
          x="508.71854"
          y="460.95114"
-         id="tspan5818">Belunton</tspan></text>
+         id="tspan57454">Belunton</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.6847101,-0.32779524,0.32779524,0.6847101,-2.0342778,581.80312)"
@@ -965,7 +1043,7 @@
        y="0"><tspan
          x="435.44645"
          y="460.95114"
-         id="tspan5820">The Southland Wilds</tspan></text>
+         id="tspan57456">The Southland Wilds</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.6574255,0.37956478,-0.37956478,0.6574255,294.61112,71.500721)"
@@ -975,7 +1053,7 @@
        y="0"><tspan
          x="470.53451"
          y="460.95114"
-         id="tspan5822">Daegur Range</tspan></text>
+         id="tspan57458">Daegur Range</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.27677368,-0.27677368,0.27677368,0.27677368,198.98128,635.34153)"
@@ -985,7 +1063,7 @@
        y="0"><tspan
          x="487.88344"
          y="460.95114"
-         id="tspan5824">Waelin Pass</tspan></text>
+         id="tspan57460">Waelin Pass</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22035111,0,0,0.22035111,227.68925,456.38252)"
@@ -995,7 +1073,7 @@
        y="0"><tspan
          x="489.21457"
          y="458.95114"
-         id="tspan5826">South Morinton</tspan></text>
+         id="tspan57462">South Morinton</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.55935547,0,0,0.55935547,183.71637,248.22387)"
@@ -1005,7 +1083,7 @@
        y="0"><tspan
          x="455.82492"
          y="460.95114"
-         id="tspan5828">Kelimanian Plains</tspan></text>
+         id="tspan57464">Kelimanian Plains</tspan></text>
     <path
        style="fill:none;stroke:#6c5d53;stroke-width:0.478905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 384.19719,544.14385 -4.11577,-6.69795 -3.93615,5.44718"
@@ -2778,7 +2856,7 @@
        y="0"><tspan
          x="502.16656"
          y="460.95114"
-         id="tspan5830">West Galen</tspan></text>
+         id="tspan57466">West Galen</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22239965,-0.09395471,0.09395471,0.22239965,316.84523,621.87491)"
@@ -2788,7 +2866,7 @@
        y="0"><tspan
          x="503.26256"
          y="460.95114"
-         id="tspan5832">East Galen</tspan></text>
+         id="tspan57468">East Galen</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22239965,-0.09395471,0.09395471,0.22239965,220.44489,687.55822)"
@@ -2798,7 +2876,7 @@
        y="0"><tspan
          x="501.37457"
          y="460.95114"
-         id="tspan5834">Galen River</tspan></text>
+         id="tspan57470">Galen River</tspan></text>
     <path
        style="fill:none;stroke:#6c5d53;stroke-width:0.478905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 507.64181,591.25145 2.09939,-1.80021 1.18139,2.00194"
@@ -2913,7 +2991,7 @@
        y="0"><tspan
          x="512.88652"
          y="460.95114"
-         id="tspan5836">Valhold</tspan></text>
+         id="tspan57472">Valhold</tspan></text>
     <circle
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.36957"
        id="path2379-5-3-5-9-0-7"
@@ -2929,7 +3007,7 @@
        y="0"><tspan
          x="511.96651"
          y="460.95114"
-         id="tspan5838">Hillston</tspan></text>
+         id="tspan57474">Hillston</tspan></text>
     <ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.36957"
        id="path2379-5-3-5-9-0-7-2"
@@ -2985,11 +3063,11 @@
        inkscape:export-ydpi="96"><tspan
          x="527.81494"
          y="574.09367"
-         id="tspan5840">Allied
+         id="tspan57476">Allied
 </tspan><tspan
          x="499.29501"
          y="624.09367"
-         id="tspan5842">Kingdoms</tspan></text>
+         id="tspan57478">Kingdoms</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3906595,0,0,1.3906595,-3.6172978,-324.62114)"
@@ -3002,7 +3080,7 @@
        inkscape:export-ydpi="96"><tspan
          x="446.85528"
          y="574.09367"
-         id="tspan5844">Salzarian Empire</tspan></text>
+         id="tspan57480">Salzarian Empire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3906595,0,0,1.3906595,-458.57221,-433.56583)"
@@ -3015,11 +3093,11 @@
        inkscape:export-ydpi="96"><tspan
          x="505.65495"
          y="574.09367"
-         id="tspan5846">Union of
+         id="tspan57482">Union of
 </tspan><tspan
          x="445.71529"
          y="624.09367"
-         id="tspan5848">Coastal Republics</tspan></text>
+         id="tspan57484">Coastal Republics</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3720276,0,0,1.3720276,-255.62267,-670.26386)"
@@ -3032,10 +3110,218 @@
        inkscape:export-ydpi="96"><tspan
          x="501.63243"
          y="575.03875"
-         id="tspan5850">Highland
+         id="tspan57486">Highland
 </tspan><tspan
          x="495.20871"
          y="626.51177"
-         id="tspan5852">Territories</tspan></text>
+         id="tspan57488">Territories</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Extras">
+    <g
+       id="g32473"
+       transform="translate(301.39731,3.9230154)">
+      <g
+         id="g15548"
+         transform="matrix(0.60797961,0,0,0.60797961,87.25926,326.41858)">
+        <rect
+           style="fill:#000000;stroke-width:0.0399481;stroke-dasharray:0.0798964, 0.0399481"
+           id="rect838"
+           width="85.133133"
+           height="1.5665617"
+           x="223.76994"
+           y="826.05927" />
+        <rect
+           style="fill:#000000;stroke-width:0.0437556;stroke-dasharray:0.0875111, 0.0437556"
+           id="rect964"
+           width="2.003911"
+           height="10.692672"
+           x="223.44902"
+           y="821.49622" />
+        <rect
+           style="fill:#000000;stroke-width:0.0437556;stroke-dasharray:0.0875111, 0.0437556"
+           id="rect964-1"
+           width="2.003911"
+           height="10.692672"
+           x="265.60202"
+           y="821.96448" />
+        <rect
+           style="fill:#000000;stroke-width:0.043348;stroke-dasharray:0.0866962, 0.043348"
+           id="rect964-3"
+           width="2.003911"
+           height="10.494436"
+           x="307.7551"
+           y="821.59534" />
+        <rect
+           style="fill:#000000;stroke-width:0.0347539;stroke-dasharray:0.0695079, 0.0347539"
+           id="rect964-3-3"
+           width="2.003911"
+           height="6.7457108"
+           x="244.52556"
+           y="823.49969" />
+        <rect
+           style="fill:#000000;stroke-width:0.0347539;stroke-dasharray:0.0695079, 0.0347539"
+           id="rect964-3-3-2"
+           width="2.003911"
+           height="6.7457108"
+           x="286.67856"
+           y="822.89923" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16086127,0,0,0.16086127,103.48991,330.17173)"
+         id="text17882"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="808.78906"
+           y="3071.1644"
+           id="tspan57490">25</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16086127,0,0,0.16086127,91.851092,330.17173)"
+         id="text17882-97"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="808.78906"
+           y="3071.1644"
+           id="tspan57492">0</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16086127,0,0,0.16086127,115.84518,330.17173)"
+         id="text17882-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="808.78906"
+           y="3071.1644"
+           id="tspan57494">50</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16086127,0,0,0.16086127,129.12215,330.17173)"
+         id="text17882-9-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="808.78906"
+           y="3071.1644"
+           id="tspan57496">75</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16086127,0,0,0.16086127,140.96084,330.17173)"
+         id="text17882-9-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0-7-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="808.78906"
+           y="3071.1644"
+           id="tspan57498">100 miles</tspan></text>
+    </g>
+    <g
+       id="g56733"
+       transform="matrix(1.3235769,0,0,1.3235769,-9.2462783,-10.564195)">
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path33452"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="422.12064"
+         sodipodi:cy="-401.54825"
+         sodipodi:r1="235.4987"
+         sodipodi:r2="117.74935"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.01426567,0,0,-0.09957849,72.876146,29.25172)"
+         inkscape:transform-center-y="-10.609022"
+         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path33452-7"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="422.12064"
+         sodipodi:cy="-401.54825"
+         sodipodi:r1="235.4987"
+         sodipodi:r2="117.74935"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.01426567,0,0,0.09957849,72.876146,132.67346)"
+         inkscape:transform-center-y="10.609022"
+         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path33452-6"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="422.12064"
+         sodipodi:cy="-401.54825"
+         sodipodi:r1="235.4987"
+         sodipodi:r2="117.74935"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0,0.01426567,0.09957849,0,130.60886,74.940758)"
+         inkscape:transform-center-y="-10.609023"
+         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path33452-7-5"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="422.12064"
+         sodipodi:cy="-401.54825"
+         sodipodi:r1="235.4987"
+         sodipodi:r2="117.74935"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0,0.01426567,-0.09957849,0,27.187107,74.940758)"
+         inkscape:transform-center-x="-2.354725e-06"
+         inkscape:transform-center-y="10.609025"
+         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.42266341,0,0,0.42266341,71.880936,29.388352)"
+         id="text36202"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="0.001953125"
+           y="35.392578"
+           id="tspan57502"><tspan
+             style="font-family:P052;-inkscape-font-specification:P052"
+             id="tspan57500">N</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.42266341,0,0,0.42266341,114.34121,71.932028)"
+         id="text36202-4"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="0.001953125"
+           y="35.392578"
+           id="tspan57506"><tspan
+             style="font-family:P052;-inkscape-font-specification:P052"
+             id="tspan57504">E</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.42266341,0,0,0.42266341,28.439136,70.866658)"
+         id="text36202-4-1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="0.001953125"
+           y="35.392578"
+           id="tspan57510"><tspan
+             style="font-family:P052;-inkscape-font-specification:P052"
+             id="tspan57508">W</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.42266341,0,0,0.42266341,74.466666,114.53128)"
+         id="text36202-4-1-9"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9-8-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+           x="0.001953125"
+           y="35.392578"
+           id="tspan57514"><tspan
+             style="font-family:P052;-inkscape-font-specification:P052"
+             id="tspan57512">S</tspan></tspan></text>
+    </g>
   </g>
 </svg>
