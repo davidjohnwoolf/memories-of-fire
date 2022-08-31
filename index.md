@@ -2,37 +2,25 @@
 
 <em><center>A world set between the fires of the earth an  ve</center></em>
 
-## Section 1 Rules
+<h2>Rules</h2>
+<ul style="list-style: none; padding: 0;">
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./rules/healing-and-injury.md">Injury and Healing</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./rules/coup-de-grace.md">Coup de Grace</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./rules/critical-rolls.md">Critical Roles</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./rules/player-characters.md">Player Characters</a></li>
+</ul>
 
-### House Rules
-1. [Injury and Healing](./rules/healing-and-injury.md)
-1. [Coup de Grace](./rules/coup-de-grace.md)
-1. [Critical Rolls](./rules/critical-rolls.md)
-1. [The Touch of the Gods](./rules/touch-of-the-gods.md)
-1. [Player Characters](./rules/player-characters.md)
+<h2>Setting</h2>
+<ul style="list-style: none; padding: 0;">
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./setting/the-realm/overview.md">The Realm</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./setting/the-gods/overview.md">The Gods</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./setting/the-southlands/overview.md">The Allied Kingdoms</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./setting/daegur-fel/overview.md">Daegur Fel</a></li>
+</ul>
 
-## Section 2 Setting
-
-### The Realm
-1. [Overview](./setting/the-realm/overview.md)
-### The Gods
-1. [Overview](./setting/the-gods/overview.md)
-### The Allied Kingdoms
-1. [Overview](./setting/the-southlands/overview.md)
-### Daegur Fel
-1. [Overview](./setting/daegur-fel/overview.md)
-
-## Section 3 Characters
-
-### Draeeth
-1. [Character](./characters/draeeth/character.md)
-### Belneak
-1. [Character](./characters/belneak/character.md)
-### Ithron
-1. [Character](./characters/ithron/character.md)
-
-## Section 4 Story
-
-## Appendix 1 Behind the Scenes (DM Only)
-1. A Timeline of World Events
-1. The War of Dragons and The Origin of the Rifts
+<h2>Characters</h2>
+<ul style="list-style: none; padding: 0;">
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./characters/draeeth/character.md">Draeeth</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./characters/belneak/character.md">Belneak</a></li>
+    <li style="display: inline-block;"><a style="padding: .25rem 1rem" href="./characters/ithron/character.md">Ithron</a></li>
+</ul>

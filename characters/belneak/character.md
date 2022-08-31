@@ -1,10 +1,6 @@
-# Belneak Thunderfanny
+# Belneak
 
-[background]
-
-## Details
-
-## Abilities
+A half elf ranger of the southland wilds, who comes to be quite a mysterious character with many wondering as to the background he may have come from.
 
 ## Contacts
 

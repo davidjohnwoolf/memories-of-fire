@@ -9,7 +9,7 @@
    id="svg5"
    sodipodi:docname="the-realm-map-full.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   inkscape:export-filename="/home/david/documents/dungeons-and-dragons/setting/maps/allied-kingdoms.png"
+   inkscape:export-filename="/home/david/documents/dungeons-and-dragons/setting/maps/map-bg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,21 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.08838835"
-     inkscape:cx="5017.6296"
-     inkscape:cy="565.68541"
+     inkscape:cx="2472.0452"
+     inkscape:cy="791.95957"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6"
-     units="in" />
+     inkscape:current-layer="layer3"
+     units="in"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid57596"
+       visible="false" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
@@ -763,10 +769,9 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background"
-     style="display:inline;opacity:1"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:1">
     <rect
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:none;stroke-width:21.0452"
+       style="opacity:1;fill:#b7bec8;fill-opacity:1;stroke:none;stroke-width:21.0452"
        id="rect26284"
        width="1118.5107"
        height="863.92194"
@@ -908,7 +913,7 @@
      inkscape:label="Features"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        id="path7044"
@@ -949,7 +954,7 @@
        y="0"><tspan
          x="503.29459"
          y="460.95114"
-         id="tspan57436">Daegur Fel</tspan></text>
+         id="tspan2955">Daegur Fel</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22358508,0,0,0.22358508,248.282,588.95236)"
@@ -959,7 +964,7 @@
        y="0"><tspan
          x="501.21455"
          y="460.95114"
-         id="tspan57438">Port Welins</tspan></text>
+         id="tspan2957">Port Welins</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22555275,0,0,0.22555275,277.66218,618.368)"
@@ -969,7 +974,7 @@
        y="0"><tspan
          x="513.50252"
          y="460.95114"
-         id="tspan57440">Grimlet</tspan></text>
+         id="tspan2959">Grimlet</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.32959423,0,0,0.32959423,267.88696,481.52)"
@@ -979,11 +984,11 @@
        y="0"><tspan
          x="514.55853"
          y="460.95114"
-         id="tspan57442">Waelin
+         id="tspan2961">Waelin
 </tspan><tspan
          x="521.26248"
          y="480.95114"
-         id="tspan57444">Hills</tspan></text>
+         id="tspan2963">Hills</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.1836627,0,0,0.1836627,380.24614,601.41539)"
@@ -993,7 +998,7 @@
        y="0"><tspan
          x="507.51054"
          y="460.95114"
-         id="tspan57446">Galenfold</tspan></text>
+         id="tspan2965">Galenfold</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.23845172,-0.03781395,0.03781395,0.23845172,260.09723,503.83788)"
@@ -1003,7 +1008,7 @@
        y="0"><tspan
          x="496.9346"
          y="460.95114"
-         id="tspan57448">Daegur River</tspan></text>
+         id="tspan2967">Daegur River</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.2421021,0,0,0.2421021,376.48705,518.40095)"
@@ -1013,7 +1018,7 @@
        y="0"><tspan
          x="510.23055"
          y="460.95114"
-         id="tspan57450">Wayford</tspan></text>
+         id="tspan2969">Wayford</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.24317901,0,0,0.24317901,400.64272,438.96264)"
@@ -1023,7 +1028,7 @@
        y="0"><tspan
          x="507.29454"
          y="460.95114"
-         id="tspan57452">Balinville</tspan></text>
+         id="tspan2971">Balinville</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22683287,0,0,0.22683287,231.47782,652.44098)"
@@ -1033,7 +1038,7 @@
        y="0"><tspan
          x="508.71854"
          y="460.95114"
-         id="tspan57454">Belunton</tspan></text>
+         id="tspan2973">Belunton</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.6847101,-0.32779524,0.32779524,0.6847101,-2.0342778,581.80312)"
@@ -1043,7 +1048,7 @@
        y="0"><tspan
          x="435.44645"
          y="460.95114"
-         id="tspan57456">The Southland Wilds</tspan></text>
+         id="tspan2975">The Southland Wilds</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.6574255,0.37956478,-0.37956478,0.6574255,294.61112,71.500721)"
@@ -1053,7 +1058,7 @@
        y="0"><tspan
          x="470.53451"
          y="460.95114"
-         id="tspan57458">Daegur Range</tspan></text>
+         id="tspan2977">Daegur Range</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.27677368,-0.27677368,0.27677368,0.27677368,198.98128,635.34153)"
@@ -1063,7 +1068,7 @@
        y="0"><tspan
          x="487.88344"
          y="460.95114"
-         id="tspan57460">Waelin Pass</tspan></text>
+         id="tspan2979">Waelin Pass</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22035111,0,0,0.22035111,227.68925,456.38252)"
@@ -1073,7 +1078,7 @@
        y="0"><tspan
          x="489.21457"
          y="458.95114"
-         id="tspan57462">South Morinton</tspan></text>
+         id="tspan2981">South Morinton</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.55935547,0,0,0.55935547,183.71637,248.22387)"
@@ -1083,7 +1088,7 @@
        y="0"><tspan
          x="455.82492"
          y="460.95114"
-         id="tspan57464">Kelimanian Plains</tspan></text>
+         id="tspan2983">Kelimanian Plains</tspan></text>
     <path
        style="fill:none;stroke:#6c5d53;stroke-width:0.478905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 384.19719,544.14385 -4.11577,-6.69795 -3.93615,5.44718"
@@ -2856,7 +2861,7 @@
        y="0"><tspan
          x="502.16656"
          y="460.95114"
-         id="tspan57466">West Galen</tspan></text>
+         id="tspan2985">West Galen</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22239965,-0.09395471,0.09395471,0.22239965,316.84523,621.87491)"
@@ -2866,7 +2871,7 @@
        y="0"><tspan
          x="503.26256"
          y="460.95114"
-         id="tspan57468">East Galen</tspan></text>
+         id="tspan2987">East Galen</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.22239965,-0.09395471,0.09395471,0.22239965,220.44489,687.55822)"
@@ -2876,7 +2881,7 @@
        y="0"><tspan
          x="501.37457"
          y="460.95114"
-         id="tspan57470">Galen River</tspan></text>
+         id="tspan2989">Galen River</tspan></text>
     <path
        style="fill:none;stroke:#6c5d53;stroke-width:0.478905px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 507.64181,591.25145 2.09939,-1.80021 1.18139,2.00194"
@@ -2991,7 +2996,7 @@
        y="0"><tspan
          x="512.88652"
          y="460.95114"
-         id="tspan57472">Valhold</tspan></text>
+         id="tspan2991">Valhold</tspan></text>
     <circle
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.36957"
        id="path2379-5-3-5-9-0-7"
@@ -3007,7 +3012,7 @@
        y="0"><tspan
          x="511.96651"
          y="460.95114"
-         id="tspan57474">Hillston</tspan></text>
+         id="tspan2993">Hillston</tspan></text>
     <ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.36957"
        id="path2379-5-3-5-9-0-7-2"
@@ -3026,7 +3031,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Borders"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.05933px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3049,7 +3054,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Kingdom Names"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -3063,11 +3068,11 @@
        inkscape:export-ydpi="96"><tspan
          x="527.81494"
          y="574.09367"
-         id="tspan57476">Allied
+         id="tspan2995">Allied
 </tspan><tspan
          x="499.29501"
          y="624.09367"
-         id="tspan57478">Kingdoms</tspan></text>
+         id="tspan2997">Kingdoms</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3906595,0,0,1.3906595,-3.6172978,-324.62114)"
@@ -3080,7 +3085,7 @@
        inkscape:export-ydpi="96"><tspan
          x="446.85528"
          y="574.09367"
-         id="tspan57480">Salzarian Empire</tspan></text>
+         id="tspan2999">Salzarian Empire</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3906595,0,0,1.3906595,-458.57221,-433.56583)"
@@ -3093,11 +3098,11 @@
        inkscape:export-ydpi="96"><tspan
          x="505.65495"
          y="574.09367"
-         id="tspan57482">Union of
+         id="tspan3001">Union of
 </tspan><tspan
          x="445.71529"
          y="624.09367"
-         id="tspan57484">Coastal Republics</tspan></text>
+         id="tspan3003">Coastal Republics</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.3720276,0,0,1.3720276,-255.62267,-670.26386)"
@@ -3110,16 +3115,18 @@
        inkscape:export-ydpi="96"><tspan
          x="501.63243"
          y="575.03875"
-         id="tspan57486">Highland
+         id="tspan3005">Highland
 </tspan><tspan
          x="495.20871"
          y="626.51177"
-         id="tspan57488">Territories</tspan></text>
+         id="tspan3007">Territories</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Extras">
+     inkscape:label="Extras"
+     sodipodi:insensitive="true"
+     style="display:none">
     <g
        id="g32473"
        transform="translate(301.39731,3.9230154)">
@@ -3176,7 +3183,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="808.78906"
            y="3071.1644"
-           id="tspan57490">25</tspan></text>
+           id="tspan3009">25</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.16086127,0,0,0.16086127,91.851092,330.17173)"
@@ -3184,7 +3191,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-5);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="808.78906"
            y="3071.1644"
-           id="tspan57492">0</tspan></text>
+           id="tspan3011">0</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.16086127,0,0,0.16086127,115.84518,330.17173)"
@@ -3192,7 +3199,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="808.78906"
            y="3071.1644"
-           id="tspan57494">50</tspan></text>
+           id="tspan3013">50</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.16086127,0,0,0.16086127,129.12215,330.17173)"
@@ -3200,7 +3207,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="808.78906"
            y="3071.1644"
-           id="tspan57496">75</tspan></text>
+           id="tspan3015">75</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.16086127,0,0,0.16086127,140.96084,330.17173)"
@@ -3208,120 +3215,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Rachana;-inkscape-font-specification:Rachana;white-space:pre;shape-inside:url(#rect17884-0-7-1);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="808.78906"
            y="3071.1644"
-           id="tspan57498">100 miles</tspan></text>
-    </g>
-    <g
-       id="g56733"
-       transform="matrix(1.3235769,0,0,1.3235769,-9.2462783,-10.564195)">
-      <path
-         sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path33452"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="422.12064"
-         sodipodi:cy="-401.54825"
-         sodipodi:r1="235.4987"
-         sodipodi:r2="117.74935"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.01426567,0,0,-0.09957849,72.876146,29.25172)"
-         inkscape:transform-center-y="-10.609022"
-         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
-      <path
-         sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path33452-7"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="422.12064"
-         sodipodi:cy="-401.54825"
-         sodipodi:r1="235.4987"
-         sodipodi:r2="117.74935"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0.01426567,0,0,0.09957849,72.876146,132.67346)"
-         inkscape:transform-center-y="10.609022"
-         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
-      <path
-         sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path33452-6"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="422.12064"
-         sodipodi:cy="-401.54825"
-         sodipodi:r1="235.4987"
-         sodipodi:r2="117.74935"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0,0.01426567,0.09957849,0,130.60886,74.940758)"
-         inkscape:transform-center-y="-10.609023"
-         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
-      <path
-         sodipodi:type="star"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:18.8976;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="path33452-7-5"
-         inkscape:flatsided="false"
-         sodipodi:sides="3"
-         sodipodi:cx="422.12064"
-         sodipodi:cy="-401.54825"
-         sodipodi:r1="235.4987"
-         sodipodi:r2="117.74935"
-         sodipodi:arg1="1.5707963"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         transform="matrix(0,0.01426567,-0.09957849,0,27.187107,74.940758)"
-         inkscape:transform-center-x="-2.354725e-06"
-         inkscape:transform-center-y="10.609025"
-         d="m 422.12064,-166.04955 -101.97393,-176.62402 -101.97394,-176.62402 203.94787,-10e-6 203.94785,-10e-6 -101.97393,176.62404 z" />
-      <text
-         xml:space="preserve"
-         transform="matrix(0.42266341,0,0,0.42266341,71.880936,29.388352)"
-         id="text36202"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="0.001953125"
-           y="35.392578"
-           id="tspan57502"><tspan
-             style="font-family:P052;-inkscape-font-specification:P052"
-             id="tspan57500">N</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.42266341,0,0,0.42266341,114.34121,71.932028)"
-         id="text36202-4"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="0.001953125"
-           y="35.392578"
-           id="tspan57506"><tspan
-             style="font-family:P052;-inkscape-font-specification:P052"
-             id="tspan57504">E</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.42266341,0,0,0.42266341,28.439136,70.866658)"
-         id="text36202-4-1"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="0.001953125"
-           y="35.392578"
-           id="tspan57510"><tspan
-             style="font-family:P052;-inkscape-font-specification:P052"
-             id="tspan57508">W</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(0.42266341,0,0,0.42266341,74.466666,114.53128)"
-         id="text36202-4-1-9"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect36204-9-8-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
-           x="0.001953125"
-           y="35.392578"
-           id="tspan57514"><tspan
-             style="font-family:P052;-inkscape-font-specification:P052"
-             id="tspan57512">S</tspan></tspan></text>
+           id="tspan3017">100 miles</tspan></text>
     </g>
   </g>
 </svg>
