@@ -10,7 +10,7 @@ The formal church has the following structure, with the priesthood (the cloth) a
             -------------------------------------------------
             |                                               |
 Cloth of The Broken                             Guardians of The Broken
-The Mortal Voice                                The Mortal Shield (Jerok Kuul)
+The Mortal Voice (Rilan Ilonsal)                The Mortal Shield (Jerok Kuul)
 High Priests                                    Arch Paladins
 Priests                                         Paladins
 Apprentice                                      Apprentice
@@ -30,7 +30,7 @@ The Guardians make up the combatant forces that follow the path of Ilmater, an o
 
 ## Daegur Fel Chapter
 
-The Ilmater Church is Daegur Fel is headquartered in the North Ward at the Halls of Ilmater, and next door are located the Guardian Barracks.  The barracks contain generally between 20 and 30, and at any given time a few apprentices, while the priesthood in the halls holds upwards of 50 clergymen, with worship bringing in quite the pretty penny, as though it is not required to come to pray at the alter in the main hall, those who do not are shamed and looked down upon with disgust. The Daegur Fel order of paladins are among the more respected of the chapters and are considered to be generally working above board and serve the city for its benefit.
+The Ilmater Church is Daegur Fel is headquartered in the North Ward at the Halls of Ilmater, and next door are located the Guardian Barracks.  The barracks contain generally between 20 and 30, and at any given time a few apprentices, while the priesthood in the halls holds upwards of 50 clergymen, with worship bringing in quite the pretty penny, for though it is not required to pa in order to come to pray at the alter in the main hall, those who do not are shamed and looked down upon with disgust, and so those who cannot pay generally do not enter the church. The Daegur Fel order of paladins are among the more respected of the chapters and are considered to be generally working above board and serve the city for its benefit.
 
 ### High Priest
 The High Priest of Daegur Fel is Alfistumaris Mordi, known as Mordi or Priest Mordi. For an old human man of slight build and a fragile disposition, he is quite the intimidating presence, if also comical at times, he is considered by many to be quite dismissive with little patience and when it comes to those he is responsible for falling short of his expectations, which are exceedingly high, and has for some an unbearably haughty attitude. Despite what comes off at first acquaintance, he nonetheless conceals a deep caring for those he considers himself responsible for, and holds himself to the highest standards.
